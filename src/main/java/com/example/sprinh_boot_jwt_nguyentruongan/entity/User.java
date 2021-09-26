@@ -13,6 +13,7 @@ import java.util.Set;
 @Getter
 @Setter
 public class User extends BaseEntity {
+    //Entity
     private String username;
 
     private String password;
